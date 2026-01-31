@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Custom properties
+application.properties
+.env
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
