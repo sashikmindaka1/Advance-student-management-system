@@ -1,4 +1,4 @@
-package com.example.studentMP1.Entity;
+package com.example.studentMP1.Student;
 
 
 import jakarta.persistence.Entity;
