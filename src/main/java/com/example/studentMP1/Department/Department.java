@@ -16,7 +16,7 @@ public class Department {
     private String deptName;
 
     @Column(nullable = false)
-    private String deptCode;
+    private String shortCode;
 
 
 

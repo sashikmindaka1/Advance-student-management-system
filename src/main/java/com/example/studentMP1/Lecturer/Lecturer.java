@@ -20,6 +20,10 @@ public class Lecturer {
     @Column(nullable = false , unique = true)
     private String email;
 
+    private String password;
+
+    private String role;
+
     private String mobileNumber;
 
     @ManyToOne
