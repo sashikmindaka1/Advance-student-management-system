@@ -15,7 +15,7 @@ import java.util.List;
 public class Student {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long studentId;
+    private Long id;
 
     @Column(nullable = false)
     private String name; // Note: Java වල variable names පටන් ගන්නේ simple අකුරෙන්
